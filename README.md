@@ -48,12 +48,12 @@ I design cohesive architectures using modern frontends, robust backends, and con
 Here is a quick look at my open-source contributions and development activity.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAnaniasCases&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SamAnaniasCases&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="380" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamAnaniasCases&theme=tokyonight" alt="Top Languages" width="380" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamAnaniasCases&theme=tokyonight" alt="GitHub Stats" width="380" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamAnaniasCases&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamAnaniasCases&theme=tokyonight" width="100%" alt="Profile Summary" />
 </p>
 
 ### ⚡ Recent Activity
