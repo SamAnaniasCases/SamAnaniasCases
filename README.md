@@ -67,11 +67,11 @@
 
 </td>
 </tr>
-<tr>
-<!-- New Row: Quests (Spans Full Width) -->
-<td colspan="2" valign="top">
-<strong>🎮 QUEST LOG</strong>
-<br/>
+</table>
+
+<hr/>
+
+### 🎮 QUEST LOG
 
 <p><strong>🔥 Active Quests</strong></p>
 <ul>
@@ -87,9 +87,6 @@
 <li><b><a href="https://github.com/SamAnaniasCases">BITS (Biometric Integrated Timekeeping System)</a></b> — A modern biometric time tracking and attendance web portal featuring high-performance React frontends and containerized deployment workflows.</li>
 <!--END_SECTION:inactive_quests-->
 </ul>
-</td>
-</tr>
-</table>
 
 ### 🛠️ Technical Architecture
 
