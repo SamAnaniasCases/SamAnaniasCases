@@ -19,6 +19,8 @@ jobs:
           persist-credentials: true # ensures git push works after checkout
 
       - name: Update Currently Building
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-currently-building.js
 
       - name: Commit Currently Building
