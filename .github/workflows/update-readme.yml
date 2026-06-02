@@ -29,5 +29,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          USERNAME: "SamAnaniasCases"
           COMMIT_MSG: "⚡ Update recent activity in biography README"
           MAX_LIMIT: 5
