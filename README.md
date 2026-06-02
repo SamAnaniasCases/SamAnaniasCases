@@ -114,4 +114,9 @@ Here is a quick look at my open-source contributions and development activity.
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Assigned PR [#564](https://github.com/avegabros/bits/pull/564) in [avegabros/bits](https://github.com/avegabros/bits)
+2. 🎉 Merged PR [#563](https://github.com/avegabros/bits/pull/563) in [avegabros/bits](https://github.com/avegabros/bits)
+3. 💪 Opened PR [#563](https://github.com/avegabros/bits/pull/563) in [avegabros/bits](https://github.com/avegabros/bits)
+4. 🔒 Closed issue [#554](https://github.com/avegabros/bits/issues/554) in [avegabros/bits](https://github.com/avegabros/bits)
+5. 🔒 Closed issue [#557](https://github.com/avegabros/bits/issues/557) in [avegabros/bits](https://github.com/avegabros/bits)
 <!--END_SECTION:activity-->
