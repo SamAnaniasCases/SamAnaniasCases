@@ -5,13 +5,18 @@ on:
     - cron: '*/30 * * * *' # runs every 30 minutes
   workflow_dispatch: # allows manual run from GitHub Actions tab
 
+permissions:
+  contents: write # required to commit and push changes to README
+
 jobs:
   update-readme:
     name: Update Profile Activity
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true # ensures git push works after checkout
 
       - name: Update Currently Building
         run: node scripts/update-currently-building.js
@@ -25,10 +30,10 @@ jobs:
           git push
 
       - name: Update GitHub Activity
-        uses: gautamkrishnar/github-activity-readme@v2
+        uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: "SamAnaniasCases"
+          GH_USERNAME: "SamAnaniasCases"
           COMMIT_MSG: "⚡ Update recent activity in biography README"
-          MAX_LIMIT: 5
+          MAX_LINES: 5
