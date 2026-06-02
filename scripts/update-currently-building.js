@@ -139,16 +139,16 @@ async function main() {
   const activeList = allMergedRepos.slice(0, activeLimit);
   const inactiveList = allMergedRepos.slice(activeLimit, activeLimit + inactiveLimit);
 
-  // 6. Format formatted lines using pure HTML tags for correct rendering inside tables
+  // 6. Format formatted lines as list items for clean GitHub rendering
   const activeLines = activeList.map(repo => {
-    return `<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="${repo.url}">${repo.displayName}</a></b> — ${repo.description}</td></tr>`;
+    return `<li><b><a href="${repo.url}">${repo.displayName}</a></b> — ${repo.description}</li>`;
   }).join('\n');
 
   const inactiveLines = inactiveList.length > 0
     ? inactiveList.map(repo => {
-        return `<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="${repo.url}">${repo.displayName}</a></b> — ${repo.description}</td></tr>`;
+        return `<li><b><a href="${repo.url}">${repo.displayName}</a></b> — ${repo.description}</li>`;
       }).join('\n')
-    : '<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<i>No inactive quests in this log yet.</i></td></tr>';
+    : '<li><i>No inactive quests in this log yet.</i></li>';
 
   // 7. Write back to README
   readmeContent = readmeContent.replace(activeRegex, `$1\n${activeLines}\n$3`);

@@ -36,47 +36,23 @@
 <tr>
 <!-- Left Column: Character Status & Base Stats -->
 <td valign="top" width="40%">
+
 <h4 align="center">👾 CHARACTER STATUS</h4>
 <p align="center"><strong>Class:</strong> Full-Stack Mage 🔮</p>
 <hr/>
-<table align="center" width="100%">
-<tr>
-<td><strong>💡 KNOWLEDGE</strong></td>
-<td align="right">🔵 🔵 🔵 🔵 ⚪</td>
-</tr>
-<tr>
-<td><strong>🎨 CREATIVITY</strong></td>
-<td align="right">🔵 🔵 🔵 🔵 ⚪</td>
-</tr>
-<tr>
-<td><strong>🤝 COLLABORATION</strong></td>
-<td align="right">🔵 🔵 🔵 🔵 🔵</td>
-</tr>
-<tr>
-<td><strong>📚 LEARNING</strong></td>
-<td align="right">🔵 🔵 🔵 🔵 🔵</td>
-</tr>
-</table>
+
+<p>💡 <strong>KNOWLEDGE</strong> &nbsp; 🔵 🔵 🔵 🔵 ⚪</p>
+<p>🎨 <strong>CREATIVITY</strong> &nbsp; 🔵 🔵 🔵 🔵 ⚪</p>
+<p>🤝 <strong>COLLABORATION</strong> &nbsp; 🔵 🔵 🔵 🔵 🔵</p>
+<p>📚 <strong>LEARNING</strong> &nbsp; 🔵 🔵 🔵 🔵 🔵</p>
+
 </td>
 <!-- Right Column: Level, Vitals, Description, and Hobbies -->
 <td valign="top" width="60%">
-<table width="100%">
-<tr>
-<td><b>LVL 24</b></td>
-<td align="right"><b>EXP: 9999 / 9999 (MAX)</b></td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td width="100"><b>HP (Frontend)</b></td>
-<td><code>[██████████████░░] 85%</code></td>
-</tr>
-<tr>
-<td width="100"><b>MP (Backend)</b></td>
-<td><code>[████████████░░░░] 75%</code></td>
-</tr>
-</table>
+<p><b>LVL 24</b> &nbsp;&nbsp;&nbsp; <b>EXP: 9999 / 9999 (MAX)</b></p>
+<p><b>HP (Frontend)</b> &nbsp; <code>[██████████████░░] 85%</code></p>
+<p><b>MP (Backend)</b> &nbsp; <code>[████████████░░░░] 75%</code></p>
 
 <hr/>
 
@@ -88,41 +64,29 @@
 <li>🌱 <strong>Buffs (Learning):</strong> Advanced Next.js App Router architectures, secure RESTful API integrations, and Docker container optimization.</li>
 <li>🛡️ <strong>Passives (Hobby):</strong> Crafting pixel-perfect responsive layouts with Tailwind CSS, scripting developer utilities, and participating in Git-based collaborative development.</li>
 </ul>
+
 </td>
 </tr>
 <tr>
 <!-- New Row: Quests (Spans Full Width) -->
 <td colspan="2" valign="top">
 <strong>🎮 QUEST LOG</strong>
-
-<table width="100%">
-<thead>
-<tr>
-<th align="left">🔥 ACTIVE QUESTS (Current Objectives)</th>
-</tr>
-</thead>
-<tbody>
-<!--START_SECTION:active_quests-->
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Is this Real?</td></tr>
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="https://github.com/SamAnaniasCases/bitsFork">bitsFork</a></b> — Biometric Integrated Tracking System</td></tr>
-<!--END_SECTION:active_quests-->
-</tbody>
-</table>
-
 <br/>
 
-<table width="100%">
-<thead>
-<tr>
-<th align="left">💤 INACTIVE QUESTS (Completed & Archived)</th>
-</tr>
-</thead>
-<tbody>
+<p><strong>🔥 Active Quests</strong></p>
+<ul>
+<!--START_SECTION:active_quests-->
+<li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Is this Real?</li>
+<li><b><a href="https://github.com/SamAnaniasCases/bitsFork">bitsFork</a></b> — Biometric Integrated Tracking System</li>
+<!--END_SECTION:active_quests-->
+</ul>
+
+<p><strong>💤 Inactive Quests</strong></p>
+<ul>
 <!--START_SECTION:inactive_quests-->
-<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="https://github.com/SamAnaniasCases">BITS (Biometric Integrated Timekeeping System)</a></b> — A modern biometric time tracking and attendance web portal featuring high-performance React frontends and containerized deployment workflows.</td></tr>
+<li><b><a href="https://github.com/SamAnaniasCases">BITS (Biometric Integrated Timekeeping System)</a></b> — A modern biometric time tracking and attendance web portal featuring high-performance React frontends and containerized deployment workflows.</li>
 <!--END_SECTION:inactive_quests-->
-</tbody>
-</table>
+</ul>
 </td>
 </tr>
 </table>
