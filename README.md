@@ -76,14 +76,15 @@
 <p><strong>🔥 Active Quests</strong></p>
 <ul>
 <!--START_SECTION:active_quests-->
+<li><b><a href="https://github.com/avegabros/bits">bits</a></b> — Biometric Integrated Tracking System</li>
 <li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Is this Real?</li>
-<li><b><a href="https://github.com/SamAnaniasCases/bitsFork">bitsFork</a></b> — Biometric Integrated Tracking System</li>
 <!--END_SECTION:active_quests-->
 </ul>
 
 <p><strong>💤 Inactive Quests</strong></p>
 <ul>
 <!--START_SECTION:inactive_quests-->
+<li><b><a href="https://github.com/SamAnaniasCases/bitsFork">bitsFork</a></b> — Biometric Integrated Tracking System</li>
 <li><b><a href="https://github.com/SamAnaniasCases">BITS (Biometric Integrated Timekeeping System)</a></b> — A modern biometric time tracking and attendance web portal featuring high-performance React frontends and containerized deployment workflows.</li>
 <!--END_SECTION:inactive_quests-->
 </ul>
