@@ -49,11 +49,11 @@ Here is a quick look at my open-source contributions and development activity.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAnaniasCases&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SamAnaniasCases&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamAnaniasCases&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="380" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamAnaniasCases&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=SamAnaniasCases&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
 </p>
 
 ### ⚡ Recent Activity
