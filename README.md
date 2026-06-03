@@ -76,7 +76,7 @@
 <p><strong>🔥 Active Quests</strong></p>
 <ul>
 <!--START_SECTION:active_quests-->
-<li><b><a href="https://github.com/avegabros/bits">bits</a></b> — Biometric Integrated Tracking System</li>
+<li><b><a href="https://github.com/avegabros/bits">bits</a></b> — Biometric Integrated Timekeeping System</li>
 <li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Is this Real?</li>
 <!--END_SECTION:active_quests-->
 </ul>
