@@ -12,6 +12,8 @@ jobs:
   update-waka-stats:
     name: Update Grind Schedule
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
