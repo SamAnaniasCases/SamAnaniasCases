@@ -147,14 +147,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamAnaniasCases&label=👁️+SPECTATORS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://wakatime.com/badge/user/SamAnaniasCases.svg?style=for-the-badge&label=⏱️+TOTAL+GRIND+TIME" alt="Total Grind Time"/>
 </p>
 
 <h4 align="center">⚔️ Combat Record</h4>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamAnaniasCases&theme=tokyonight" alt="Combat Stats" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SamAnaniasCases&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&custom_title=⚗️%20Spell%20Mastery%20(Coding%20Time)" alt="Spell Mastery" width="380" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamAnaniasCases&theme=tokyonight" alt="Spell Repertoire" width="380" />
 </p>
 
 <p align="center">
@@ -166,64 +165,64 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Grind%20Time-17%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-925.43%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Scrolls%20Written-925.43%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**⚔️ Guild Registry** 
 
-> 📦 16.6 kB Used in GitHub's Storage 
+> 📦 Inventory: 16.6 kB Used in GitHub's Storage 
  > 
-> 🏆 297 Contributions in the Year 2026
+> 🏆 Quests Completed: 297 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Not Seeking Party Members
  > 
-> 📜 4 Public Repositories 
+> 📜 4 Public Dungeons 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 5 Hidden Vaults 
  > 
-**I'm an Early 🐤** 
+**I'm a Dawn Warrior 🌅** 
 
 ```text
-🌞 Morning                629 commits         ███████████░░░░░░░░░░░░░░   43.83 % 
-🌆 Daytime                710 commits         ████████████░░░░░░░░░░░░░   49.48 % 
-🌃 Evening                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+🌞 Morning                629 commits         ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.83 % 
+🌆 Daytime                710 commits         ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   49.48 % 
+🌃 Evening                87 commits          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.06 % 
+🌙 Night                  9 commits           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.63 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **Peak Grinding Day: Thursday** 
 
 ```text
-Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Tuesday                  385 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 415 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Saturday                 92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Sunday                   21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Monday                   141 commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.83 % 
+Tuesday                  385 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   26.83 % 
+Wednesday                216 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.05 % 
+Thursday                 415 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   28.92 % 
+Friday                   165 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.50 % 
+Saturday                 92 commits          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.41 % 
+Sunday                   21 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.46 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week's Training Log** 
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-YAML                     2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-TypeScript               2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🔮 Spell Schools: 
+Markdown                 3 hrs 2 mins        ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.87 % 
+YAML                     2 hrs 24 mins       ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.66 % 
+TypeScript               2 hrs 12 mins       ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   18.06 % 
+Other                    1 hr 14 mins        ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.13 % 
+JSON                     1 hr 13 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.97 % 
 
-🔥 Editors: 
-VS Code                  12 hrs 13 mins      █████████████████████████   100.00 % 
+⚔️ Weapons of Choice: 
+VS Code                  12 hrs 13 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 
-🐱‍💻 Projects: 
-bits                     9 hrs 47 mins       ████████████████████░░░░░   80.14 % 
-SamAnaniasCases          2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+📜 Active Quests: 
+bits                     9 hrs 47 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   80.14 % 
+SamAnaniasCases          2 hrs 25 mins       ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.86 % 
 
-💻 Operating System: 
-Windows                  12 hrs 13 mins      █████████████████████████   100.00 % 
+🛡️ Battle Platform: 
+Windows                  12 hrs 13 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 ```
 
 
