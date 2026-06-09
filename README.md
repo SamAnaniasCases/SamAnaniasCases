@@ -165,9 +165,12 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Grind%20Time-17%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Scrolls%20Written-925.43%20thousand%20lines%20of%20code-blue?style=flat)
+
+<p align="center">
+  <img src="http://img.shields.io/badge/Grind%20Time-17%20hrs%2025%20mins-blue?style=flat" alt="Grind Time" />
+  <img src="https://img.shields.io/badge/Scrolls%20Written-925.43%20thousand%20lines%20of%20code-blue?style=flat" alt="Scrolls Written" />
+</p>
 
 **⚔️ Guild Registry** 
 
@@ -181,6 +184,10 @@
  > 
 > 🔑 5 Hidden Vaults 
  > 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 **I'm a Dawn Warrior 🌅** 
 
 ```text
@@ -189,6 +196,10 @@
 🌃 Evening                87 commits          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.06 % 
 🌙 Night                  9 commits           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.63 % 
 ```
+
+    </td>
+    <td valign="top" width="50%">
+
 📅 **Peak Grinding Day: Thursday** 
 
 ```text
@@ -200,6 +211,12 @@ Friday                   165 commits         ▰▰▰▱▱▱▱▱▱▱▱�
 Saturday                 92 commits          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.41 % 
 Sunday                   21 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.46 % 
 ```
+
+    </td>
+  </tr>
+</table>
+
+
 
 
 📊 **This Week's Training Log** 

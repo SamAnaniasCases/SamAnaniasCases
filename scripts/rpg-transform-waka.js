@@ -9,7 +9,6 @@ const README_PATH = path.join(__dirname, '..', 'README.md');
 
 const replacements = [
   // Section headers
-  ['**🐱 My GitHub Data**', '**⚔️ Guild Registry**'],
   ['📊 **This Week I Spent My Time On**', '📊 **This Week\'s Training Log**'],
 
   // Time of day
@@ -28,17 +27,6 @@ const replacements = [
   // Badge labels
   ['Code%20Time', 'Grind%20Time'],
   ['From%20Hello%20World%20I%27ve%20Written', 'Scrolls%20Written'],
-
-  // Storage & stats
-  ['📦 16', '📦 Inventory: 16'],
-  ['🏆', '🏆 Quests Completed:'],
-  ['🚫 Not Opted to Hire', '🚫 Not Seeking Party Members'],
-  ['📜 4 Public Repositories', '📜 4 Public Dungeons'],
-  ['📜 3 Public Repositories', '📜 3 Public Dungeons'],
-  ['📜 5 Public Repositories', '📜 5 Public Dungeons'],
-  ['🔑 5 Private Repositories', '🔑 5 Hidden Vaults'],
-  ['🔑 4 Private Repositories', '🔑 4 Hidden Vaults'],
-  ['🔑 3 Private Repositories', '🔑 3 Hidden Vaults'],
 
   // Progress bar characters — sleek diamond blocks
   ['█', '▰'],
@@ -66,11 +54,45 @@ for (const [search, replace] of replacements) {
   wakaSection = wakaSection.split(search).join(replace);
 }
 
-// Handle dynamic public/private repo counts with regex
-wakaSection = wakaSection.replace(/📜 (\d+) Public Repositories/g, '📜 $1 Public Dungeons');
-wakaSection = wakaSection.replace(/🔑 (\d+) Private Repositories/g, '🔑 $1 Hidden Vaults');
-wakaSection = wakaSection.replace(/📦 ([\d.]+\s*\w+) Used in GitHub's Storage/g, '📦 Inventory: $1 Used');
-wakaSection = wakaSection.replace(/🏆 (\d+) Contributions in the Year (\d+)/g, '🏆 $1 Quests Completed in Year $2');
+// Transform Time-of-Day and Day-of-Week stats into a two-column HTML layout
+const timeOfDayRegex = /(\*\*I'm (?:an Early|a Night|a Dawn Warrior|a Shadow Stalker)[^*]*\*\*[\s\S]*?```[\s\S]*?```)/gi;
+const peakDayRegex = /(📅 \*\*(?:Peak Grinding Day|I'm Most Productive on)[^*]*\*\*[\s\S]*?```[\s\S]*?```)/gi;
+
+const timeOfDayMatch = wakaSection.match(timeOfDayRegex);
+const peakDayMatch = wakaSection.match(peakDayRegex);
+
+if (timeOfDayMatch && peakDayMatch) {
+  const timeBlock = timeOfDayMatch[0].trim();
+  const dayBlock = peakDayMatch[0].trim();
+
+  const twoColumnTable = `
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+${timeBlock}
+
+    </td>
+    <td valign="top" width="50%">
+
+${dayBlock}
+
+    </td>
+  </tr>
+</table>
+`;
+
+  const timeIdx = wakaSection.indexOf(timeBlock);
+  const dayIdx = wakaSection.indexOf(dayBlock);
+
+  if (timeIdx !== -1 && dayIdx !== -1) {
+    if (timeIdx < dayIdx) {
+      wakaSection = wakaSection.substring(0, timeIdx) + twoColumnTable.trim() + '\n\n' + wakaSection.substring(dayIdx + dayBlock.length);
+    } else {
+      wakaSection = wakaSection.substring(0, dayIdx) + twoColumnTable.trim() + '\n\n' + wakaSection.substring(timeIdx + timeBlock.length);
+    }
+  }
+}
 
 readme = readme.substring(0, startIdx) + wakaSection + readme.substring(endIdx + endMarker.length);
 
