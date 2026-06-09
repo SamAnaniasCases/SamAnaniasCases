@@ -69,9 +69,6 @@
 
 <hr/>
 
-<table>
-<tr><td>
-
 ### 🎮 QUEST LOG
 
 <p><strong>🔥 Active Quests</strong></p>
@@ -89,12 +86,6 @@
 <li><b><a href="https://github.com/SamAnaniasCases">BITS (Biometric Integrated Timekeeping System)</a></b> — A modern biometric time tracking and attendance web portal featuring high-performance React frontends and containerized deployment workflows.</li>
 <!--END_SECTION:inactive_quests-->
 </ul>
-
-</td></tr>
-</table>
-
-<table>
-<tr><td>
 
 ### 🌳 Skill Tree
 
@@ -150,12 +141,6 @@
 </tr>
 </table>
 
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
 ### 📊 Battle Statistics
 
 <p><em>Performance metrics gathered from the Guild's archives and the Timekeeper's logs.</em></p>
@@ -183,12 +168,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -198,6 +177,3 @@
 4. 💪 Opened PR [#565](https://github.com/avegabros/bits/pull/565) in [avegabros/bits](https://github.com/avegabros/bits)
 5. ℹ️ Assigned PR [#564](https://github.com/avegabros/bits/pull/564) in [avegabros/bits](https://github.com/avegabros/bits)
 <!--END_SECTION:activity-->
-
-</td></tr>
-</table>
