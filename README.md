@@ -166,6 +166,68 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2025%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-925.43%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 16.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 297 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                629 commits         ███████████░░░░░░░░░░░░░░   43.83 % 
+🌆 Daytime                710 commits         ████████████░░░░░░░░░░░░░   49.48 % 
+🌃 Evening                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Tuesday                  385 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Thursday                 415 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Saturday                 92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Sunday                   21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+YAML                     2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+TypeScript               2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 13 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bits                     9 hrs 47 mins       ████████████████████░░░░░   80.14 % 
+SamAnaniasCases          2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+
+💻 Operating System: 
+Windows                  12 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/06/2026 08:21:26 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Recent Activity
