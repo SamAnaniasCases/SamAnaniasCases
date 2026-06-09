@@ -54,45 +54,6 @@ for (const [search, replace] of replacements) {
   wakaSection = wakaSection.split(search).join(replace);
 }
 
-// Transform Time-of-Day and Day-of-Week stats into a two-column HTML layout
-const timeOfDayRegex = /(\*\*I'm (?:an Early|a Night|a Dawn Warrior|a Shadow Stalker)[^*]*\*\*[\s\S]*?```[\s\S]*?```)/gi;
-const peakDayRegex = /(📅 \*\*(?:Peak Grinding Day|I'm Most Productive on)[^*]*\*\*[\s\S]*?```[\s\S]*?```)/gi;
-
-const timeOfDayMatch = wakaSection.match(timeOfDayRegex);
-const peakDayMatch = wakaSection.match(peakDayRegex);
-
-if (timeOfDayMatch && peakDayMatch) {
-  const timeBlock = timeOfDayMatch[0].trim();
-  const dayBlock = peakDayMatch[0].trim();
-
-  const twoColumnTable = `
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-${timeBlock}
-
-    </td>
-    <td valign="top" width="50%">
-
-${dayBlock}
-
-    </td>
-  </tr>
-</table>
-`;
-
-  const timeIdx = wakaSection.indexOf(timeBlock);
-  const dayIdx = wakaSection.indexOf(dayBlock);
-
-  if (timeIdx !== -1 && dayIdx !== -1) {
-    if (timeIdx < dayIdx) {
-      wakaSection = wakaSection.substring(0, timeIdx) + twoColumnTable.trim() + '\n\n' + wakaSection.substring(dayIdx + dayBlock.length);
-    } else {
-      wakaSection = wakaSection.substring(0, dayIdx) + twoColumnTable.trim() + '\n\n' + wakaSection.substring(timeIdx + timeBlock.length);
-    }
-  }
-}
 
 readme = readme.substring(0, startIdx) + wakaSection + readme.substring(endIdx + endMarker.length);
 
