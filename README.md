@@ -15,7 +15,7 @@
       <a href="mailto:samananiascases@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
-      <a href="viber://chat?number=09925731056">
+      <a href="viber://chat?number=%2B639925731056">
         <img src="https://img.shields.io/badge/Viber-7360f2?style=flat-square&logo=viber&logoColor=white" alt="Viber"/>
       </a>
       <br/><br/>
@@ -38,9 +38,9 @@
 <p align="center"><strong>Class:</strong> Apprentice Coder 🔮</p>
 <hr/>
 
-<p>💡 <strong>KNOWLEDGE</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▰▰▱▱▱▱] 60%</code></p>
-<p>🎨 <strong>CREATIVITY</strong> &nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▰▰▱▱▱▱] 60%</code></p>
-<p>🤝 <strong>COLLABORATION</strong> <code>[▰▰▰▰▰▰▰▰▱▱] 80%</code></p>
+<p>💡 <strong>KNOWLEDGE</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▱▱▱▱▱▱] 40%</code></p>
+<p>🎨 <strong>CREATIVITY</strong> &nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▰▱▱▱▱▱] 50%</code></p>
+<p>🤝 <strong>COLLABORATION</strong> <code>[▰▰▰▰▰▱▱▱▱▱] 50%</code></p>
 <p>📚 <strong>LEARNING</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▰▰▰▰▰▰] 100%</code></p>
 
 </td>
@@ -52,13 +52,23 @@
 <hr/>
 
 <strong>📜 DESCRIPTION</strong>
-<p>I am an IT student currently pursuing a <strong>Bachelor of Industrial Technology (BIT)</strong> and working as a web development intern. I am focused on learning the core concepts of software engineering and building foundation skills in web technologies like React, JavaScript, and database management.</p>
+<p>I am a <strong>Bachelor of Industrial Technology (BIT)</strong> graduate, focusing on leveling my skill tree and unlocking a new skill set. Still too underleveled to be picking fights with high-tier enemies, just trying to survive long enough for the late game. <strong>LET IT RIDE!!</strong></p>
 
 <strong>⚡ PASSIVES & BUFFS</strong>
-<ul>
-<li>🌱 <strong>Buffs (Learning):</strong> Web development fundamentals, responsive web design principles, and basic database integration.</li>
-<li>🛡️ <strong>Passives (Hobby):</strong> Exploring frontend building blocks with Tailwind CSS, practicing version control with Git, and gaining real-world teamwork experience during my internship.</li>
-</ul>
+
+<strong>🌱 [ACTIVE BUFF] — Grinding Mode</strong>
+<pre>
+++ EXP  Knowledge
+++ EXP  Learning
+++ EXP  Skills
+</pre>
+
+<strong>🛡️ [PASSIVE TRAIT] — Always Equipped</strong>
+<pre>
+++ DEF  Adaptability
+++ DEF  Teamwork
+++ LCK  Curiosity
+</pre>
 
 </td>
 </tr>
@@ -68,7 +78,7 @@
 
 <h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=200&lines=QUEST+LOG" alt="Quest Log" valign="middle" /></h3>
 
-<table width="100%">
+
 <tr>
 <td>
 
@@ -90,7 +100,8 @@
 
 </td>
 </tr>
-</table>
+
+<hr/>
 
 <h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=220&lines=Skill+Tree" alt="Skill Tree" valign="middle" /></h3>
 
@@ -145,6 +156,9 @@
 </td>
 </tr>
 </table>
+
+
+<hr/>
 
 <h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=350&lines=Battle+Statistics" alt="Battle Statistics" valign="middle" /></h3>
 
@@ -239,6 +253,8 @@ Windows                  12 hrs 13 mins      ▰▰▰▰▰▰▰▰▰▰▰�
 </td>
 </tr>
 </table>
+
+<hr/>
 
 <h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=300&lines=Recent+Activity" alt="Recent Activity" valign="middle" /></h3>
 
