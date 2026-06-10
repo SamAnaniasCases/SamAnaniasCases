@@ -1,50 +1,47 @@
-<table>
+<table width="100%">
   <tr>
-    <td valign="middle" width="220" rowspan="2">
+    <td valign="middle" width="220">
       <!-- ASCII Art Portrait -->
       <img src="./ascii-art.svg" alt="Sam Ananias Cases ASCII Art" width="200"/>
     </td>
-    <td valign="top">
+    <td valign="middle" align="center">
       <!-- Retro Gaming Font Title — types once and stays -->
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=00FF9C&center=false&vCenter=true&repeat=false&width=500&lines=Sam+Ananias+Cases" alt="Sam Ananias Cases" />
+      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=false&width=600&lines=Sam+Ananias+Cases" alt="Sam Ananias Cases" />
       <br/>
       <!-- Subtitle — cycles through lines once and stays on last line -->
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=2000&color=A0A0FF&center=false&vCenter=true&repeat=false&width=500&lines=Full+Stack+Dev+%26+Software+Engineer;Building+responsive+web+portals;Crafting+user-centric+interfaces" alt="Subtitle" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="bottom">
+      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=2000&color=A0A0FF&center=true&vCenter=true&repeat=false&width=600&lines=IT+Student+%26+Web+Dev+Intern;Exploring+frontend+and+backend+development;Building+foundation+skills+in+IT+%26+coding" alt="Subtitle" />
+      <br/><br/>
       <!-- Badges -->
-      <a href="https://github.com/SamAnaniasCases/myPortfolio">
-        <img src="https://img.shields.io/badge/PORTFOLIO-myPortfolio-333333?style=flat-square&logo=php&logoColor=white" alt="Portfolio"/>
-      </a>
-      <a href="https://github.com/SamAnaniasCases">
-        <img src="https://img.shields.io/badge/PROJECT-BITS-007acc?style=flat-square&logo=typescript&logoColor=white" alt="Project BITS"/>
-      </a>
       <a href="mailto:samananiascases@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-e5a50a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
+      <a href="viber://chat?number=09925731056">
+        <img src="https://img.shields.io/badge/Viber-7360f2?style=flat-square&logo=viber&logoColor=white" alt="Viber"/>
+      </a>
+      <br/><br/>
+      <!-- Chrome Dino Animation -->
+      <img src="./chrome-dino.svg" alt="Chrome Dino Runner" width="100%" />
     </td>
   </tr>
 </table>
 
 <hr/>
 
-### 🎮 Character Profile
+<h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=300&lines=Character+Profile" alt="Character Profile" valign="middle" /></h3>
 
-<table>
+<table width="100%">
 <tr>
 <!-- Left Column: Character Status & Base Stats -->
 <td valign="top" width="40%">
 
 <h4 align="center">👾 CHARACTER STATUS</h4>
-<p align="center"><strong>Class:</strong> Full-Stack Mage 🔮</p>
+<p align="center"><strong>Class:</strong> Apprentice Coder 🔮</p>
 <hr/>
 
-<p>💡 <strong>KNOWLEDGE</strong> &nbsp; 🔵 🔵 🔵 🔵 ⚪</p>
-<p>🎨 <strong>CREATIVITY</strong> &nbsp; 🔵 🔵 🔵 🔵 ⚪</p>
-<p>🤝 <strong>COLLABORATION</strong> &nbsp; 🔵 🔵 🔵 🔵 🔵</p>
-<p>📚 <strong>LEARNING</strong> &nbsp; 🔵 🔵 🔵 🔵 🔵</p>
+<p>💡 <strong>KNOWLEDGE</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▰▰▱▱▱▱] 60%</code></p>
+<p>🎨 <strong>CREATIVITY</strong> &nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▰▰▱▱▱▱] 60%</code></p>
+<p>🤝 <strong>COLLABORATION</strong> <code>[▰▰▰▰▰▰▰▰▱▱] 80%</code></p>
+<p>📚 <strong>LEARNING</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>[▰▰▰▰▰▰▰▰▰▰] 100%</code></p>
 
 </td>
 <!-- Right Column: Level, Vitals, Description, and Hobbies -->
@@ -55,12 +52,12 @@
 <hr/>
 
 <strong>📜 DESCRIPTION</strong>
-<p>I am a passionate <strong>Full Stack Developer</strong> specializing in React, Next.js, and TypeScript, with hands-on experience building robust corporate web portals and custom applications.</p>
+<p>I am an IT student currently pursuing a <strong>Bachelor of Industrial Technology (BIT)</strong> and working as a web development intern. I am focused on learning the core concepts of software engineering and building foundation skills in web technologies like React, JavaScript, and database management.</p>
 
 <strong>⚡ PASSIVES & BUFFS</strong>
 <ul>
-<li>🌱 <strong>Buffs (Learning):</strong> Advanced Next.js App Router architectures, secure RESTful API integrations, and Docker container optimization.</li>
-<li>🛡️ <strong>Passives (Hobby):</strong> Crafting pixel-perfect responsive layouts with Tailwind CSS, scripting developer utilities, and participating in Git-based collaborative development.</li>
+<li>🌱 <strong>Buffs (Learning):</strong> Web development fundamentals, responsive web design principles, and basic database integration.</li>
+<li>🛡️ <strong>Passives (Hobby):</strong> Exploring frontend building blocks with Tailwind CSS, practicing version control with Git, and gaining real-world teamwork experience during my internship.</li>
 </ul>
 
 </td>
@@ -69,7 +66,11 @@
 
 <hr/>
 
-### 🎮 QUEST LOG
+<h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=200&lines=QUEST+LOG" alt="Quest Log" valign="middle" /></h3>
+
+<table width="100%">
+<tr>
+<td>
 
 <p><strong>🔥 Active Quests</strong></p>
 <ul>
@@ -83,20 +84,24 @@
 <ul>
 <!--START_SECTION:inactive_quests-->
 <li><b><a href="https://github.com/SamAnaniasCases/bitsFork">bitsFork</a></b> — Biometric Integrated Tracking System</li>
-<li><b><a href="https://github.com/SamAnaniasCases">BITS (Biometric Integrated Timekeeping System)</a></b> — A modern biometric time tracking and attendance web portal featuring high-performance React frontends and containerized deployment workflows.</li>
+<li><b><a href="https://github.com/SamAnaniasCases">BITS (Biometric Integrated Timekeeping System)</a></b> — A student time tracking and attendance web portal project, created to practice React and basic backend integration.</li>
 <!--END_SECTION:inactive_quests-->
 </ul>
 
-### 🌳 Skill Tree
+</td>
+</tr>
+</table>
+
+<h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=220&lines=Skill+Tree" alt="Skill Tree" valign="middle" /></h3>
 
 <p><em>Abilities unlocked through countless quests and side missions.</em></p>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
 <h4 align="center">⚔️ FRONTEND BRANCH</h4>
-<p align="center"><code>[ MASTERED ]</code></p>
+<p align="center"><code>[ APPRENTICE ]</code></p>
 
 
 <p align="center">
@@ -113,7 +118,7 @@
 <td valign="top" width="33%">
 
 <h4 align="center">🔮 BACKEND BRANCH</h4>
-<p align="center"><code>[ ADVANCED ]</code></p>
+<p align="center"><code>[ APPRENTICE ]</code></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -126,7 +131,7 @@
 <td valign="top" width="33%">
 
 <h4 align="center">🛡️ DEVOPS BRANCH</h4>
-<p align="center"><code>[ ADVANCED ]</code></p>
+<p align="center"><code>[ APPRENTICE ]</code></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -141,7 +146,11 @@
 </tr>
 </table>
 
-### 📊 Battle Statistics
+<h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=350&lines=Battle+Statistics" alt="Battle Statistics" valign="middle" /></h3>
+
+<table width="100%">
+<tr>
+<td>
 
 <p><em>Performance metrics gathered from the Guild's archives and the Timekeeper's logs.</em></p>
 
@@ -225,11 +234,17 @@ SamAnaniasCases          2 hrs 25 mins       ▰▰▰▰▰▱▱▱▱▱▱�
 Windows                  12 hrs 13 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
 ```
 
-
- Last Updated on 09/06/2026 08:21:26 UTC
 <!--END_SECTION:waka-->
 
-### ⚡ Recent Activity
+</td>
+</tr>
+</table>
+
+<h3><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFCC00&center=false&vCenter=true&repeat=false&width=300&lines=Recent+Activity" alt="Recent Activity" valign="middle" /></h3>
+
+<table width="100%">
+<tr>
+<td>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#566](https://github.com/avegabros/bits/pull/566) in [avegabros/bits](https://github.com/avegabros/bits)
@@ -238,3 +253,7 @@ Windows                  12 hrs 13 mins      ▰▰▰▰▰▰▰▰▰▰▰�
 4. 💪 Opened PR [#565](https://github.com/avegabros/bits/pull/565) in [avegabros/bits](https://github.com/avegabros/bits)
 5. ℹ️ Assigned PR [#564](https://github.com/avegabros/bits/pull/564) in [avegabros/bits](https://github.com/avegabros/bits)
 <!--END_SECTION:activity-->
+
+</td>
+</tr>
+</table>

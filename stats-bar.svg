@@ -17,33 +17,33 @@
 
   <!-- ═══ LVL BADGE ═══ -->
   <rect x="0" y="0" width="80" height="30" rx="8" fill="#21262D" stroke="#FFD700" stroke-width="1.5" />
-  <text x="40" y="20" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="15" fill="#FFD700">LVL 24</text>
-  <text x="92" y="20" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="13" fill="#8B949E">Full-Stack Mage</text>
+  <text x="40" y="20" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="15" fill="#FFD700">LVL 3</text>
+  <text x="92" y="20" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="13" fill="#8B949E">Apprentice Coder</text>
 
   <!-- ═══ EXP BAR ═══ -->
   <text x="0" y="56" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="14" fill="#C9D1D9">⚡ EXP</text>
   <!-- Track -->
   <rect x="0" y="64" width="370" height="24" rx="12" fill="#21262D" stroke="#30363D" stroke-width="1.5" />
-  <!-- Fill (100%) -->
-  <rect x="1" y="65" width="368" height="22" rx="11" fill="url(#stripeExp)" />
+  <!-- Fill (45%) -->
+  <rect x="1" y="65" width="165.6" height="22" rx="11" fill="url(#stripeExp)" />
   <!-- Percentage -->
-  <text x="382" y="81" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#FFD700">MAX</text>
+  <text x="382" y="81" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#FFD700">45%</text>
 
   <!-- ═══ HP BAR (Frontend) ═══ -->
   <text x="0" y="116" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="14" fill="#C9D1D9">❤️ HP (Frontend)</text>
   <!-- Track -->
   <rect x="0" y="124" width="370" height="24" rx="12" fill="#21262D" stroke="#30363D" stroke-width="1.5" />
-  <!-- Fill (85%) -->
-  <rect x="1" y="125" width="312.8" height="22" rx="11" fill="url(#stripeHP)" />
+  <!-- Fill (55%) -->
+  <rect x="1" y="125" width="202.4" height="22" rx="11" fill="url(#stripeHP)" />
   <!-- Percentage -->
-  <text x="382" y="141" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#00CC7A">85%</text>
+  <text x="382" y="141" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#00CC7A">55%</text>
 
   <!-- ═══ MP BAR (Backend) ═══ -->
   <text x="0" y="176" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="14" fill="#C9D1D9">🔮 MP (Backend)</text>
   <!-- Track -->
   <rect x="0" y="184" width="370" height="24" rx="12" fill="#21262D" stroke="#30363D" stroke-width="1.5" />
-  <!-- Fill (75%) -->
-  <rect x="1" y="185" width="276" height="22" rx="11" fill="url(#stripeMP)" />
+  <!-- Fill (40%) -->
+  <rect x="1" y="185" width="147.2" height="22" rx="11" fill="url(#stripeMP)" />
   <!-- Percentage -->
-  <text x="382" y="201" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#7B68EE">75%</text>
+  <text x="382" y="201" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#7B68EE">40%</text>
 </svg>

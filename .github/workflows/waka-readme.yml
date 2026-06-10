@@ -38,6 +38,7 @@ jobs:
           COMMIT_BY_ME: "True"
           LOCALE: "en"
           COMMIT_MESSAGE: "⏱️ Update grind schedule stats"
+          SHOW_UPDATED_DATE: "False"
 
       - name: Pull Latest Changes
         run: git pull origin main || git pull origin master
