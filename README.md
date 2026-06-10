@@ -15,7 +15,7 @@
       <a href="mailto:samananiascases@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
-      <a href="https://viber.me/639925731056">
+      <a href="https://msng.link/o/?639925731056=vi" target="_blank">
         <img src="https://img.shields.io/badge/Viber-7360f2?style=flat-square&logo=viber&logoColor=white" alt="Viber"/>
       </a>
       <br/><br/>
