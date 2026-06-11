@@ -18,6 +18,9 @@
       <a href="https://msng.link/o/?639925731056=vi" target="_blank">
         <img src="https://img.shields.io/badge/Viber-7360f2?style=flat-square&logo=viber&logoColor=white" alt="Viber"/>
       </a>
+      <a href="https://samananiascases.wasmer.app" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=flat-square&logo=wasmer&logoColor=black" alt="Portfolio"/>
+      </a>
       <br/><br/>
       <!-- Chrome Dino Animation -->
       <img src="./chrome-dino.svg" alt="Chrome Dino Runner" width="100%" />
