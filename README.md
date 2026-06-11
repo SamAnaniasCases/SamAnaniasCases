@@ -188,53 +188,53 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Grind%20Time-22%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-938.99%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Scrolls%20Written-938.99%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                639 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
-🌆 Daytime                733 commits         ████████████░░░░░░░░░░░░░   49.23 % 
-🌃 Evening                107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-```
-📅 **I'm Most Productive on Thursday** 
+**I'm a Dawn Warrior 🌅** 
 
 ```text
-Monday                   146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Tuesday                  390 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Thursday                 436 commits         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+🌞 Morning                639 commits         ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   42.91 % 
+🌆 Daytime                733 commits         ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   49.23 % 
+🌃 Evening                107 commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.19 % 
+🌙 Night                  10 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.67 % 
+```
+📅 **Peak Grinding Day: Thursday** 
+
+```text
+Monday                   146 commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.81 % 
+Tuesday                  390 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   26.19 % 
+Wednesday                225 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.11 % 
+Thursday                 436 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   29.28 % 
+Friday                   173 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.62 % 
+Saturday                 95 commits          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.38 % 
+Sunday                   24 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.61 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week's Training Log** 
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-TypeScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-YAML                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Other                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+🔮 Spell Schools: 
+Markdown                 2 hrs 56 mins       ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   21.42 % 
+TypeScript               2 hrs 28 mins       ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.99 % 
+YAML                     2 hrs 18 mins       ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.87 % 
+Other                    1 hr 22 mins        ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.01 % 
+Bash                     1 hr 6 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.01 % 
 
-🔥 Editors: 
-VS Code                  13 hrs 43 mins      █████████████████████████   100.00 % 
+⚔️ Weapons of Choice: 
+VS Code                  13 hrs 43 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 
-🐱‍💻 Projects: 
-bits                     9 hrs 48 mins       ██████████████████░░░░░░░   71.42 % 
-SamAnaniasCases          2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-myPortfolio              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+📜 Active Quests: 
+bits                     9 hrs 48 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   71.42 % 
+SamAnaniasCases          2 hrs 34 mins       ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   18.75 % 
+myPortfolio              1 hr 20 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.83 % 
 
-💻 Operating System: 
-Windows                  13 hrs 43 mins      █████████████████████████   100.00 % 
+🛡️ Battle Platform: 
+Windows                  13 hrs 43 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 ```
 
 
