@@ -255,11 +255,11 @@ Windows                  4 hrs 31 mins       ▰▰▰▰▰▰▰▰▰▰▰�
 <td>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#570](https://github.com/avegabros/bits/pull/570) in [avegabros/bits](https://github.com/avegabros/bits)
-2. 🎉 Merged PR [#569](https://github.com/avegabros/bits/pull/569) in [avegabros/bits](https://github.com/avegabros/bits)
-3. 💪 Opened PR [#569](https://github.com/avegabros/bits/pull/569) in [avegabros/bits](https://github.com/avegabros/bits)
-4. 🎉 Merged PR [#4](https://github.com/SamAnaniasCases/myPortfolio/pull/4) in [SamAnaniasCases/myPortfolio](https://github.com/SamAnaniasCases/myPortfolio)
-5. 💪 Opened PR [#4](https://github.com/SamAnaniasCases/myPortfolio/pull/4) in [SamAnaniasCases/myPortfolio](https://github.com/SamAnaniasCases/myPortfolio)
+1. ℹ️ Assigned issue [#571](https://github.com/avegabros/bits/issues/571) in [avegabros/bits](https://github.com/avegabros/bits)
+2. 🎉 Merged PR [#570](https://github.com/avegabros/bits/pull/570) in [avegabros/bits](https://github.com/avegabros/bits)
+3. 🎉 Merged PR [#569](https://github.com/avegabros/bits/pull/569) in [avegabros/bits](https://github.com/avegabros/bits)
+4. 💪 Opened PR [#569](https://github.com/avegabros/bits/pull/569) in [avegabros/bits](https://github.com/avegabros/bits)
+5. 🎉 Merged PR [#4](https://github.com/SamAnaniasCases/myPortfolio/pull/4) in [SamAnaniasCases/myPortfolio](https://github.com/SamAnaniasCases/myPortfolio)
 <!--END_SECTION:activity-->
 
 </td>
