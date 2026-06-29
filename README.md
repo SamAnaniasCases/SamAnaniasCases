@@ -256,11 +256,11 @@ Windows                  11 hrs 50 mins      ▰▰▰▰▰▰▰▰▰▰▰�
 <td>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#572](https://github.com/avegabros/bits/pull/572) in [avegabros/bits](https://github.com/avegabros/bits)
-2. 🎉 Merged PR [#572](https://github.com/avegabros/bits/pull/572) in [avegabros/bits](https://github.com/avegabros/bits)
-3. 💪 Opened PR [#570](https://github.com/avegabros/bits/pull/570) in [avegabros/bits](https://github.com/avegabros/bits)
-4. ℹ️ Assigned issue [#571](https://github.com/avegabros/bits/issues/571) in [avegabros/bits](https://github.com/avegabros/bits)
-5. 🎉 Merged PR [#570](https://github.com/avegabros/bits/pull/570) in [avegabros/bits](https://github.com/avegabros/bits)
+1. 🎉 Merged PR [#573](https://github.com/avegabros/bits/pull/573) in [avegabros/bits](https://github.com/avegabros/bits)
+2. 🔒 Closed issue [#571](https://github.com/avegabros/bits/issues/571) in [avegabros/bits](https://github.com/avegabros/bits)
+3. 💪 Opened PR [#573](https://github.com/avegabros/bits/pull/573) in [avegabros/bits](https://github.com/avegabros/bits)
+4. 💪 Opened PR [#572](https://github.com/avegabros/bits/pull/572) in [avegabros/bits](https://github.com/avegabros/bits)
+5. 🎉 Merged PR [#572](https://github.com/avegabros/bits/pull/572) in [avegabros/bits](https://github.com/avegabros/bits)
 <!--END_SECTION:activity-->
 
 </td>
