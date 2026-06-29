@@ -192,52 +192,52 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Grind%20Time-49%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Scrolls%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                919 commits         ███████████░░░░░░░░░░░░░░   45.18 % 
-🌆 Daytime                1023 commits        █████████████░░░░░░░░░░░░   50.29 % 
-🌃 Evening                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
-📅 **I'm Most Productive on Thursday** 
+**I'm a Dawn Warrior 🌅** 
 
 ```text
-Monday                   189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Tuesday                  545 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Wednesday                325 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Thursday                 606 commits         ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Saturday                 121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Sunday                   20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+🌞 Morning                919 commits         ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   45.18 % 
+🌆 Daytime                1023 commits        ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.29 % 
+🌃 Evening                85 commits          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.18 % 
+🌙 Night                  7 commits           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.34 % 
+```
+📅 **Peak Grinding Day: Thursday** 
+
+```text
+Monday                   189 commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.29 % 
+Tuesday                  545 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   26.79 % 
+Wednesday                325 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.98 % 
+Thursday                 606 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   29.79 % 
+Friday                   228 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.21 % 
+Saturday                 121 commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.95 % 
+Sunday                   20 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.98 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week's Training Log** 
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-TypeScript               8 hrs 45 mins       ██████████████████░░░░░░░   73.95 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Prisma                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+🔮 Spell Schools: 
+TypeScript               8 hrs 45 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   73.95 % 
+Markdown                 1 hr 14 mins        ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.51 % 
+JSON                     1 hr 1 min          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.67 % 
+Prisma                   21 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.01 % 
+Bash                     9 mins              ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.32 % 
 
-🔥 Editors: 
-Antigravity IDE          11 hrs 50 mins      █████████████████████████   100.00 % 
+⚔️ Weapons of Choice: 
+Antigravity IDE          11 hrs 50 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 
-🐱‍💻 Projects: 
-bits                     11 hrs 50 mins      █████████████████████████   99.95 % 
-biometric-projects       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+📜 Active Quests: 
+bits                     11 hrs 50 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   99.95 % 
+biometric-projects       0 secs              ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.05 % 
 
-💻 Operating System: 
-Windows                  11 hrs 50 mins      █████████████████████████   100.00 % 
+🛡️ Battle Platform: 
+Windows                  11 hrs 50 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 ```
 
 
