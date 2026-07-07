@@ -192,54 +192,53 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Grind%20Time-64%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Scrolls%20Written-320.03%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320.85%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Dawn Warrior 🌅** 
-
-```text
-🌞 Morning                167 commits         ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   32.05 % 
-🌆 Daytime                241 commits         ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   46.26 % 
-🌃 Evening                105 commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   20.15 % 
-🌙 Night                  8 commits           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.54 % 
-```
-📅 **Peak Grinding Day: Thursday** 
+**I'm an Early 🐤** 
 
 ```text
-Monday                   52 commits          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.98 % 
-Tuesday                  113 commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   21.69 % 
-Wednesday                67 commits          ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.86 % 
-Thursday                 160 commits         ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.71 % 
-Friday                   72 commits          ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.82 % 
-Saturday                 34 commits          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.53 % 
-Sunday                   23 commits          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.41 % 
+🌞 Morning                169 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
+🌆 Daytime                242 commits         ████████████░░░░░░░░░░░░░   46.18 % 
+🌃 Evening                105 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Tuesday                  115 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Wednesday                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Thursday                 160 commits         ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Friday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Saturday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 ```
 
 
-📊 **This Week's Training Log** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-🔮 Spell Schools: 
-TypeScript               8 hrs 33 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.98 % 
-Markdown                 3 hrs 51 mins       ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.00 % 
-Other                    1 hr 4 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.42 % 
-Prisma                   1 hr                ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.03 % 
-SQL                      36 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.61 % 
+💬 Programming Languages: 
+TypeScript               8 hrs 9 mins        █████████████░░░░░░░░░░░░   53.13 % 
+Markdown                 3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Prisma                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
-⚔️ Weapons of Choice: 
-Antigravity IDE          17 hrs 1 min        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
+🔥 Editors: 
+Antigravity IDE          15 hrs 20 mins      █████████████████████████   100.00 % 
 
-📜 Active Quests: 
-bits                     14 hrs 30 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   85.24 % 
-myPortfolio              2 hrs 7 mins        ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.50 % 
-antigravity-ide          22 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.25 % 
-Unknown Project          0 secs              ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 % 
+🐱‍💻 Projects: 
+bits                     13 hrs 12 mins      ██████████████████████░░░   86.13 % 
+myPortfolio              2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
-🛡️ Battle Platform: 
-Windows                  17 hrs 1 min        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
+💻 Operating System: 
+Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
