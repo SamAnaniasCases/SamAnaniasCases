@@ -88,15 +88,15 @@
 <p><strong>🔥 Active Quests</strong></p>
 <ul>
 <!--START_SECTION:active_quests-->
+<li><b><a href="https://github.com/avegabros/bits">bits</a></b> — Biometric Integrated Timekeeping System</li>
 <li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Coding Information about myself</li>
-<li><b><a href="https://github.com/SamAnaniasCases/filesThatCouldBeUseful">filesThatCouldBeUseful</a></b> — A centralized repository for useful scripts, automation utilities, templates, configuration files, and system tools collected over time to simplify workspace setup, maintenance, and productivity.</li>
 <!--END_SECTION:active_quests-->
 </ul>
 
 <p><strong>💤 Inactive Quests</strong></p>
 <ul>
 <!--START_SECTION:inactive_quests-->
-<li><b><a href="https://github.com/avegabros/bits">bits</a></b> — Biometric Integrated Timekeeping System</li>
+<li><b><a href="https://github.com/SamAnaniasCases/filesThatCouldBeUseful">filesThatCouldBeUseful</a></b> — A centralized repository for useful scripts, automation utilities, templates, configuration files, and system tools collected over time to simplify workspace setup, maintenance, and productivity.</li>
 <li><b><a href="https://github.com/SamAnaniasCases/portfolio">portfolio</a></b> — My real portfolio</li>
 <li><b><a href="https://github.com/SamAnaniasCases/myPortfolio">myPortfolio</a></b> — Mi Cogito — Personal Developer Portfolio, interactive web developer portfolio. Built with PHP, vanilla CSS, and JavaScript, it is designed around warm-minimalism and high-fidelity micro-interactions.</li>
 <!--END_SECTION:inactive_quests-->
