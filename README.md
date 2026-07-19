@@ -192,55 +192,55 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Grind%20Time-95%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Scrolls%20Written-1.05%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                678 commits         ██████████░░░░░░░░░░░░░░░   41.96 % 
-🌆 Daytime                823 commits         █████████████░░░░░░░░░░░░   50.93 % 
-🌃 Evening                107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-```
-📅 **I'm Most Productive on Thursday** 
+**I'm a Dawn Warrior 🌅** 
 
 ```text
-Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Tuesday                  408 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Wednesday                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Thursday                 463 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Friday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Saturday                 88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Sunday                   25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+🌞 Morning                678 commits         ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   41.96 % 
+🌆 Daytime                823 commits         ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.93 % 
+🌃 Evening                107 commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.62 % 
+🌙 Night                  8 commits           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.50 % 
+```
+📅 **Peak Grinding Day: Thursday** 
+
+```text
+Monday                   165 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.21 % 
+Tuesday                  408 commits         ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   25.25 % 
+Wednesday                251 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.53 % 
+Thursday                 463 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   28.65 % 
+Friday                   216 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.37 % 
+Saturday                 88 commits          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.45 % 
+Sunday                   25 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.55 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week's Training Log** 
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-TypeScript               7 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
-Markdown                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-JSON                     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+🔮 Spell Schools: 
+TypeScript               7 hrs 40 mins       ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   41.62 % 
+Markdown                 3 hrs 12 mins       ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.42 % 
+JSON                     3 hrs 5 mins        ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.79 % 
+Bash                     1 hr 11 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.50 % 
+JavaScript               41 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.73 % 
 
-🔥 Editors: 
-Antigravity IDE          18 hrs 26 mins      █████████████████████████   100.00 % 
+⚔️ Weapons of Choice: 
+Antigravity IDE          18 hrs 26 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 
-🐱‍💻 Projects: 
-bits                     15 hrs 3 mins       ████████████████████░░░░░   81.68 % 
-filesThatCouldBeUseful   1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Repo                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-learn-review-chess       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-ecc                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+📜 Active Quests: 
+bits                     15 hrs 3 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   81.68 % 
+filesThatCouldBeUseful   1 hr 34 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.58 % 
+Repo                     1 hr 13 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.66 % 
+learn-review-chess       29 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.66 % 
+ecc                      4 mins              ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.43 % 
 
-💻 Operating System: 
-Windows                  18 hrs 26 mins      █████████████████████████   100.00 % 
+🛡️ Battle Platform: 
+Windows                  18 hrs 26 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 ```
 
 
