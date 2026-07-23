@@ -192,55 +192,55 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Grind%20Time-112%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Scrolls%20Written-1.22%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                788 commits         ███████████░░░░░░░░░░░░░░   42.34 % 
-🌆 Daytime                953 commits         █████████████░░░░░░░░░░░░   51.21 % 
-🌃 Evening                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-```
-📅 **I'm Most Productive on Thursday** 
+**I'm a Dawn Warrior 🌅** 
 
 ```text
-Monday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Tuesday                  468 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Wednesday                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Thursday                 526 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Friday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Saturday                 98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Sunday                   30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+🌞 Morning                788 commits         ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   42.34 % 
+🌆 Daytime                953 commits         ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   51.21 % 
+🌃 Evening                112 commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.02 % 
+🌙 Night                  8 commits           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.43 % 
+```
+📅 **Peak Grinding Day: Thursday** 
+
+```text
+Monday                   192 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.32 % 
+Tuesday                  468 commits         ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   25.15 % 
+Wednesday                295 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.85 % 
+Thursday                 526 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   28.26 % 
+Friday                   252 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.54 % 
+Saturday                 98 commits          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.27 % 
+Sunday                   30 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.61 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week's Training Log** 
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-Markdown                 8 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.79 % 
-TypeScript               5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Astro                    3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-CSS                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+🔮 Spell Schools: 
+Markdown                 8 hrs 32 mins       ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.79 % 
+TypeScript               5 hrs 44 mins       ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.39 % 
+Astro                    3 hrs 12 mins       ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.07 % 
+CSS                      1 hr 28 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.03 % 
+JSON                     1 hr 2 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.21 % 
 
-🔥 Editors: 
-Antigravity IDE          19 hrs 51 mins      ████████████████████░░░░░   80.87 % 
-VS Code                  4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+⚔️ Weapons of Choice: 
+Antigravity IDE          19 hrs 51 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   80.87 % 
+VS Code                  4 hrs 41 mins       ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.13 % 
 
-🐱‍💻 Projects: 
-Repo                     15 hrs 24 mins      ████████████████░░░░░░░░░   62.71 % 
-bits                     6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-aegis-v2                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-learn-review-chess       1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+📜 Active Quests: 
+Repo                     15 hrs 24 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   62.71 % 
+bits                     6 hrs 7 mins        ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.90 % 
+aegis-v2                 1 hr 38 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.69 % 
+learn-review-chess       1 hr 23 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.69 % 
 
-💻 Operating System: 
-Windows                  24 hrs 33 mins      █████████████████████████   100.00 % 
+🛡️ Battle Platform: 
+Windows                  24 hrs 33 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 ```
 
 
