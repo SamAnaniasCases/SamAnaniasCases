@@ -88,8 +88,8 @@
 <p><strong>🔥 Active Quests</strong></p>
 <ul>
 <!--START_SECTION:active_quests-->
-<li><b><a href="https://github.com/SamAnaniasCases/gebportfolio">gebportfolio</a></b> — Just portfolio for now</li>
 <li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Coding Information about myself</li>
+<li><b><a href="https://github.com/SamAnaniasCases/gebportfolio">gebportfolio</a></b> — Just portfolio for now</li>
 <!--END_SECTION:active_quests-->
 </ul>
 
