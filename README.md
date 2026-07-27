@@ -88,7 +88,7 @@
 <p><strong>🔥 Active Quests</strong></p>
 <ul>
 <!--START_SECTION:active_quests-->
-<li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Coding Information about myself</li>
+<li><b><a href="https://github.com/SamAnaniasCases/turn-arbiter">turn-arbiter</a></b> — test package</li>
 <li><b><a href="https://github.com/SamAnaniasCases/gebportfolio">gebportfolio</a></b> — Just portfolio for now</li>
 <!--END_SECTION:active_quests-->
 </ul>
@@ -96,9 +96,9 @@
 <p><strong>💤 Inactive Quests</strong></p>
 <ul>
 <!--START_SECTION:inactive_quests-->
+<li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Coding Information about myself</li>
 <li><b><a href="https://github.com/avegabros/bits">bits</a></b> — Biometric Integrated Timekeeping System</li>
 <li><b><a href="https://github.com/SamAnaniasCases/filesThatCouldBeUseful">filesThatCouldBeUseful</a></b> — A centralized repository for useful scripts, automation utilities, templates, configuration files, and system tools collected over time to simplify workspace setup, maintenance, and productivity.</li>
-<li><b><a href="https://github.com/SamAnaniasCases/portfolio">portfolio</a></b> — My real portfolio</li>
 <!--END_SECTION:inactive_quests-->
 </ul>
 
