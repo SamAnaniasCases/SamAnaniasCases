@@ -192,58 +192,58 @@
 <p><em>Days and hours spent sharpening skills — tracked by the Guild's Timekeeper.</em></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Grind%20Time-123%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Grind%20Time-104%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.23%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Scrolls%20Written-1.23%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                788 commits         ██████████░░░░░░░░░░░░░░░   42.00 % 
-🌆 Daytime                956 commits         █████████████░░░░░░░░░░░░   50.96 % 
-🌃 Evening                122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-```
-📅 **I'm Most Productive on Thursday** 
+**I'm a Dawn Warrior 🌅** 
 
 ```text
-Monday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Tuesday                  469 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Wednesday                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Thursday                 526 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-Friday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Sunday                   32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+🌞 Morning                788 commits         ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   42.00 % 
+🌆 Daytime                956 commits         ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.96 % 
+🌃 Evening                122 commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.50 % 
+🌙 Night                  10 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.53 % 
+```
+📅 **Peak Grinding Day: Thursday** 
+
+```text
+Monday                   199 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.61 % 
+Tuesday                  469 commits         ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   25.00 % 
+Wednesday                295 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.72 % 
+Thursday                 526 commits         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   28.04 % 
+Friday                   256 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.65 % 
+Saturday                 99 commits          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.28 % 
+Sunday                   32 commits          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.71 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week's Training Log** 
 
 ```text
 🕑︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-Markdown                 11 hrs 38 mins      █████████████░░░░░░░░░░░░   51.78 % 
-Astro                    3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-TypeScript               3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Dart                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+🔮 Spell Schools: 
+Markdown                 11 hrs 38 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   51.78 % 
+Astro                    3 hrs 55 mins       ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.49 % 
+TypeScript               3 hrs 53 mins       ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.32 % 
+Dart                     42 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.15 % 
+JSON                     32 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.43 % 
 
-🔥 Editors: 
-Antigravity IDE          21 hrs 31 mins      ████████████████████████░   95.75 % 
-VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+⚔️ Weapons of Choice: 
+Antigravity IDE          21 hrs 31 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   95.75 % 
+VS Code                  57 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.25 % 
 
-🐱‍💻 Projects: 
-Repo                     15 hrs 58 mins      ██████████████████░░░░░░░   71.08 % 
-gebportfolio             2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-aegis-v2                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-learn-review-chess       1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-turn-arbiter             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+📜 Active Quests: 
+Repo                     15 hrs 58 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   71.08 % 
+gebportfolio             2 hrs 41 mins       ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.96 % 
+aegis-v2                 1 hr 38 mins        ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.31 % 
+learn-review-chess       1 hr 15 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.60 % 
+turn-arbiter             54 mins             ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.05 % 
 
-💻 Operating System: 
-Windows                  22 hrs 29 mins      █████████████████████████   100.00 % 
+🛡️ Battle Platform: 
+Windows                  22 hrs 29 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -259,9 +259,9 @@ Windows                  22 hrs 29 mins      ███████████�
 
 🧠 19 AI Sessions, 279 AI Prompts
 
-Gemini                   1,319 lines         ███████████████████░░░░░░   75.80 % 
-Qoder                    403 lines           ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Opus                     18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Gemini                   1,319 lines         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   75.80 % 
+Qoder                    403 lines           ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.16 % 
+Opus                     18 lines            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 90.25% of written lines came from AI
