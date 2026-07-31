@@ -46,7 +46,7 @@
     /* Dark Mode Auto-Detection */
     @media (prefers-color-scheme: dark) {
       .dino-sprite, .ground-wrap, .cloud1, .cloud2 {
-        filter: invert(0.85);
+        filter: brightness(2.7);
       }
     }
   </style>

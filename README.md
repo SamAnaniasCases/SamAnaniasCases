@@ -5,7 +5,7 @@
     <img src="./chrome-dino.svg" alt="Chrome Dino Runner" width="100%" height="100" />
   </picture>
   <br/><br/>
-  <p><b><font size="5">No internet</font></b></p>
+  <p><b><font size="6 ">No internet</font></b></p>
   <p>Try:</p>
   <ul>
     <li>Checking the network cables, modem, and router</li>
