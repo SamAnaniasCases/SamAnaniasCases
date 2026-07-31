@@ -1,9 +1,6 @@
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./chrome-dino-dark.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="./chrome-dino.svg#gh-light-mode-only">
-    <img src="./chrome-dino.svg#gh-light-mode-only" alt="Chrome Dino Runner" width="100%" height="100" />
-  </picture>
+  <img src="./chrome-dino-dark.svg#gh-dark-mode-only" alt="Chrome Dino Runner" width="100%" height="100" />
+  <img src="./chrome-dino.svg#gh-light-mode-only" alt="Chrome Dino Runner" width="100%" height="100" />
   <br/><br/>
   <p><b><font size="6">No internet</font></b></p>
   <p>Try:</p>
