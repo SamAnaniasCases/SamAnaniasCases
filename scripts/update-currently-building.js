@@ -60,6 +60,18 @@ function extractRepos(sectionContent) {
   return repos;
 }
 
+function isProfileRepo(repoIdentifier) {
+  if (!repoIdentifier) return false;
+  const str = repoIdentifier.toLowerCase().trim().replace(/\/$/, '');
+  const uname = username.toLowerCase();
+  return (
+    str === uname ||
+    str === `${uname}/${uname}` ||
+    str.endsWith(`/${uname}`) ||
+    str.endsWith(`github.com/${uname}/${uname}`)
+  );
+}
+
 async function main() {
   const readmePath = 'README.md';
   let readmeContent = fs.readFileSync(readmePath, 'utf8');
@@ -70,7 +82,8 @@ async function main() {
     const events = await fetchJson(`https://api.github.com/users/${username}/events/public`);
     if (Array.isArray(events)) {
       const pushEvents = events.filter(event => event.type === 'PushEvent');
-      activeRepoNames.push(...new Set(pushEvents.map(event => event.repo.name)));
+      const filteredEvents = pushEvents.filter(event => !isProfileRepo(event.repo.name));
+      activeRepoNames.push(...new Set(filteredEvents.map(event => event.repo.name)));
     }
   } catch (err) {
     console.error('Error fetching API events:', err.message);
@@ -109,6 +122,16 @@ async function main() {
   const oldActiveRepos = extractRepos(oldActiveContent);
   const oldInactiveRepos = extractRepos(oldInactiveContent);
 
+  // Ensure self profile repository is not kept in active quests
+  const cleanOldActiveRepos = [];
+  oldActiveRepos.forEach(repo => {
+    if (isProfileRepo(repo.displayName) || isProfileRepo(repo.url)) {
+      oldInactiveRepos.push(repo);
+    } else {
+      cleanOldActiveRepos.push(repo);
+    }
+  });
+
   // 4. Merge uniquely while preserving order of activity:
   // API repos (most recent) -> Old Active repos -> Old Inactive repos
   const allReposMap = new Map();
@@ -121,7 +144,7 @@ async function main() {
   }
 
   apiRepos.forEach(addRepo);
-  oldActiveRepos.forEach(addRepo);
+  cleanOldActiveRepos.forEach(addRepo);
   oldInactiveRepos.forEach(addRepo);
 
   const allMergedRepos = Array.from(allReposMap.values());

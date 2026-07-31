@@ -96,9 +96,9 @@
 <p><strong>💤 Inactive Quests</strong></p>
 <ul>
 <!--START_SECTION:inactive_quests-->
-<li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Coding Information about myself</li>
 <li><b><a href="https://github.com/avegabros/bits">bits</a></b> — Biometric Integrated Timekeeping System</li>
 <li><b><a href="https://github.com/SamAnaniasCases/filesThatCouldBeUseful">filesThatCouldBeUseful</a></b> — A centralized repository for useful scripts, automation utilities, templates, configuration files, and system tools collected over time to simplify workspace setup, maintenance, and productivity.</li>
+<li><b><a href="https://github.com/SamAnaniasCases/SamAnaniasCases">SamAnaniasCases</a></b> — Coding Information about myself</li>
 <!--END_SECTION:inactive_quests-->
 </ul>
 
@@ -194,8 +194,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Grind%20Time-126%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Grind%20Time-107%20hrs%2025%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/Scrolls%20Written-1.24%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Dawn Warrior 🌅** 
@@ -245,30 +243,6 @@ SVG                      3 mins              ▱▱▱▱▱▱▱▱▱▱▱�
 🛡️ Battle Platform: 
 Windows                  18 hrs 21 mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
 ```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 hrs 4 mins (98.5%)
-
-✍️ 942 lines written by AI, 189 lines written by hand (83.29% AI-written)
-
-🔤 2,014,387 Input Tokens, 37,916 Output Tokens
-
-💵 $1.43 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 256 AI Prompts
-
-Gemini                   1,074 lines         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 % 
-Qoder                    0 lines             ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 83.29% of written lines came from AI
-📝 Concise Prompter — average 483 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 14.79% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
