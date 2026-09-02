@@ -7,7 +7,7 @@
   <ul>
     <li>Checking the network cables, modem, and router</li>
     <li>Reconnecting to Wi-Fi</li>
-    <li><a href="https://gebportfolio.samananiascases.workers.dev/">Running Windows Network Diagnostics</a></li>
+    <li><a href="https://https://samananias.is-a.dev/">Running Windows Network Diagnostics</a></li>
   </ul>
   <br/>
   <p><code>ERR_INTERNET_DISCONNECTED</code></p>
